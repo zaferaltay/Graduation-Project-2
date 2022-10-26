@@ -1,0 +1,4 @@
+CinsiyetLate.ipynb ->>> Include all datas from each tecniques
+G_Nmr_GC.ipynb ->>> Includes data from NMR and GC
+G_NmrClinic.ipynb ->>>Includes data from NMR and Clinical Biochemistry
+G_GC_Clinic.ipynb ->>>Includes data from GC and Clinical Biochemistry

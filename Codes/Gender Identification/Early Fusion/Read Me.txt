@@ -1,0 +1,4 @@
+CinsiyetEarly.ipynb ->>> Include all datas from each tecniques
+GenderGc.ipynb ->>> Includes data from GC
+GenderNmr.ipynb ->>>Includes data from NMR
+GenderClinicalBioc.ipynb ->>>Includes data from Clinical Biochemistry

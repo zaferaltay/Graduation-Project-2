@@ -1,0 +1,4 @@
+YasLate.ipynb ->>> Include all datas from each tecniques
+YasNmrGc.ipynb ->>> Includes data from NMR and GC
+YasNmrClinic.ipynb ->>>Includes data from NMR and Clinical Biochemistry
+YasGCClinic.ipynb ->>>Includes data from GC and Clinical Biochemistry
